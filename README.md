@@ -7,10 +7,6 @@ The objective is to enable dynamic routing, improve scalability, and verify conn
 
 ---
 
-## Topology
-*(Topology diagram: `Topology.png`)*
-
----
 
 ## Addressing Table
 
@@ -39,8 +35,6 @@ The objective is to enable dynamic routing, improve scalability, and verify conn
   - R3 → 3.3.3.3  
 - **Passive interfaces:** LAN interfaces only  
 - All networks included in Area 0  
-
-*(Detailed configurations available in `/configs`)*
 
 ---
 
